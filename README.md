@@ -4,12 +4,13 @@ Are you using a Video Game Library Manager like Playnite or LaunchBox? Are you t
 This tool terminates processes and is still in the test phase. I am not responsible for any damage to your system. 
 
 # Setup
-1. VERY IMPORTANT! if you don't want to remove the remaining icons yourself, open all launchers manually and make them always              visible in the SystemTray.
-Before:
+1. VERY IMPORTANT! if you don't want to remove the remaining icons yourself, open all launchers manually and make them always              visible in the SystemTray.<br>
+
+Before:<br>
 ![alt text](https://raw.githubusercontent.com/acealone/LauncherKiller/master/images/Tray_Launcher_Before.png)
-
-After:
+<br>
+After:<br>
 ![alt text](https://raw.githubusercontent.com/acealone/LauncherKiller/master/images/Tray_Launcher_After.png)
-
+<br>
 2. Move the files to a folder of your choice.
 3. Open "LauncherKiller.exe", press "+" and add your launcher.
