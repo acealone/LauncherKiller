@@ -5,6 +5,11 @@ This tool terminates processes and is still in the test phase. I am not responsi
 
 # Setup
 1. VERY IMPORTANT! if you don't want to remove the remaining icons yourself, open all launchers manually and make them always              visible in the SystemTray.
+Before:
 ![alt text](https://raw.githubusercontent.com/acealone/LauncherKiller/master/images/Tray_Launcher_Before.png)
+
+After:
+![alt text](https://raw.githubusercontent.com/acealone/LauncherKiller/master/images/Tray_Launcher_After.png)
+
 2. Move the files to a folder of your choice.
 3. Open "LauncherKiller.exe", press "+" and add your launcher.
